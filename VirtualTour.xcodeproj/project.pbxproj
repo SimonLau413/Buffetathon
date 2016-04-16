@@ -15,6 +15,7 @@
 		26071CA31CC1F928007B0229 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26071CA11CC1F928007B0229 /* LaunchScreen.storyboard */; };
 		26071CAE1CC1F929007B0229 /* VirtualTourTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26071CAD1CC1F929007B0229 /* VirtualTourTests.swift */; };
 		26071CB91CC1F929007B0229 /* VirtualTourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26071CB81CC1F929007B0229 /* VirtualTourUITests.swift */; };
+		26071CC71CC1F94F007B0229 /* swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 26071CC61CC1F94F007B0229 /* swift.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		26071CB41CC1F929007B0229 /* VirtualTourUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VirtualTourUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26071CB81CC1F929007B0229 /* VirtualTourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualTourUITests.swift; sourceTree = "<group>"; };
 		26071CBA1CC1F929007B0229 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26071CC61CC1F94F007B0229 /* swift.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = swift.gitignore; path = ../Git/Gitignore_template/swift.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		26071C8A1CC1F928007B0229 = {
 			isa = PBXGroup;
 			children = (
+				26071CC61CC1F94F007B0229 /* swift.gitignore */,
 				26071C951CC1F928007B0229 /* VirtualTour */,
 				26071CAC1CC1F929007B0229 /* VirtualTourTests */,
 				26071CB71CC1F929007B0229 /* VirtualTourUITests */,
@@ -234,6 +237,7 @@
 			files = (
 				26071CA31CC1F928007B0229 /* LaunchScreen.storyboard in Resources */,
 				26071CA01CC1F928007B0229 /* Assets.xcassets in Resources */,
+				26071CC71CC1F94F007B0229 /* swift.gitignore in Resources */,
 				26071C9E1CC1F928007B0229 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
